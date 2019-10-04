@@ -1,0 +1,64 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="renatojoa.pw" resolutions="1x" timestamp="1570163699274">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="451659689" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u521.php" crc="375937476" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_1394.jpg" crc="3923191163" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_1395.jpg" crc="3838471079" seo="true" ref="index"/>
+    <file name="ar2.png" crc="54280652" ref="index"/>
+    <file name="ar.png" crc="396165195" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logovoltz-ieu1104-fr.png" crc="3862667930" ref="index"/>
+    <file name="logovoltz.png" crc="3862667930" ref="index"/>
+    <file name="protein-now-logo@3x.png" crc="3824993028" ref="index"/>
+    <file name="image1@3x-ieu1117-fr.png" crc="3951038422" ref="index"/>
+    <file name="image1@3x.png" crc="3951038422" ref="index"/>
+    <file name="unnamed.png" crc="4180410855" ref="index"/>
+    <file name="freestocks-org-40k6zqbsxuo-unsplash.jpg" crc="3873081195" ref="index"/>
+    <file name="sunrise-73074_640230x153.jpg" crc="116746245" seo="true" ref="index"/>
+    <file name="gobi-692640_640230x154.jpg" crc="4086346632" seo="true" ref="index"/>
+    <file name="pier-674722_640230x154.jpg" crc="4903550" seo="true" ref="index"/>
+    <file name="sky-690293_640249x140.jpg" crc="111428557" seo="true" ref="index"/>
+    <file name="sunset-675847_640230x154.jpg" crc="303622596" seo="true" ref="index"/>
+    <file name="tulip-690320_640230x153.jpg" crc="106557830" seo="true" ref="index"/>
+    <file name="landscape-411712_640230x147.jpg" crc="362176579" seo="true" ref="index"/>
+    <file name="pine-273826_640230x154.jpg" crc="521358457" seo="true" ref="index"/>
+    <file name="sunrise-73074_640.jpg" crc="4038601162" seo="true" ref="index"/>
+    <file name="gobi-692640_640.jpg" crc="4143973373" seo="true" ref="index"/>
+    <file name="pier-674722_640.jpg" crc="297570731" seo="true" ref="index"/>
+    <file name="sky-690293_640.jpg" crc="61486768" seo="true" ref="index"/>
+    <file name="sunset-675847_640.jpg" crc="111212257" seo="true" ref="index"/>
+    <file name="tulip-690320_640.jpg" crc="95684739" seo="true" ref="index"/>
+    <file name="landscape-411712_640.jpg" crc="290144159" seo="true" ref="index"/>
+    <file name="pine-273826_640.jpg" crc="3867201506" seo="true" ref="index"/>
+    <file name="amazing-701679_1280.jpg" crc="99989210" ref="index"/>
+    <file name="u527-17.png" crc="353459160" ref="index"/>
+    <file name="u527-17-r.png" crc="3810886880" ref="index"/>
+    <file name="u527-17-m.png" crc="3810886880" ref="index"/>
+    <file name="u527-17-fs.png" crc="332647214" ref="index"/>
+    <file name="email.png" crc="3953581475" ref="index"/>
+    <file name="linkedin-letters.png" crc="363484587" ref="index"/>
+    <file name="instagram.png" crc="260457741" ref="index"/>
+  </folder>
+  <file name="index.html" crc="233698119" seo="true" mt="1570163695654" redirect="true"/>
+</manifest>
