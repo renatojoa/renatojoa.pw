@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="renatojoa.pw" resolutions="1x" timestamp="1570163699274">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="renatojoa.pw" resolutions="1x" timestamp="1570332560799">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="451659689" ref="index"/>
+    <file name="index.css" crc="110984266" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -34,7 +34,6 @@
     <file name="image1@3x-ieu1117-fr.png" crc="3951038422" ref="index"/>
     <file name="image1@3x.png" crc="3951038422" ref="index"/>
     <file name="unnamed.png" crc="4180410855" ref="index"/>
-    <file name="freestocks-org-40k6zqbsxuo-unsplash.jpg" crc="3873081195" ref="index"/>
     <file name="sunrise-73074_640230x153.jpg" crc="116746245" seo="true" ref="index"/>
     <file name="gobi-692640_640230x154.jpg" crc="4086346632" seo="true" ref="index"/>
     <file name="pier-674722_640230x154.jpg" crc="4903550" seo="true" ref="index"/>
@@ -59,6 +58,9 @@
     <file name="email.png" crc="3953581475" ref="index"/>
     <file name="linkedin-letters.png" crc="363484587" ref="index"/>
     <file name="instagram.png" crc="260457741" ref="index"/>
+    <file name="amazing-701689_1280.jpg" crc="284585884" seo="true" ref="index"/>
+    <file name="maple-tree-701690_1280.jpg" crc="110105585" seo="true" ref="index"/>
+    <file name="mike-kenneally-td4dbagg2we-unsplash.jpg" crc="3839487439" ref="index"/>
   </folder>
-  <file name="index.html" crc="233698119" seo="true" mt="1570163695654" redirect="true"/>
+  <file name="index.html" crc="430023357" seo="true" mt="1570332557976" redirect="true"/>
 </manifest>
